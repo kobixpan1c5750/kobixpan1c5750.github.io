@@ -16,7 +16,7 @@ timezone:
 
 title: kobixpan1c # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: "Cybersecurity engineering student at UPC"
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -99,7 +99,7 @@ theme_mode: dark
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "assets/img/furry.jpg"
+avatar: "https://i.pinimg.com/736x/99/0e/c9/990ec9f5a1d12fbf0a98e91d787045dc.jpg"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
